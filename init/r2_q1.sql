@@ -1,3 +1,5 @@
+CREATE DATABASE r2_q1;
+USE r2_q1;
 -- 生産
 CREATE TABLE 生産 (
     生産番号 INT PRIMARY KEY,

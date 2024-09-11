@@ -1,3 +1,5 @@
+CREATE DATABASE r5_q1;
+USE r5_q1;
 -- 社員所属
 CREATE TABLE 社員所属 (
     社員コード INT PRIMARY KEY,

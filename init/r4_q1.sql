@@ -1,4 +1,5 @@
 CREATE DATABASE r4_q1;
+USE r4_q1;
 -- CC 要員
 CREATE TABLE CC要員 (
     社員番号 INT PRIMARY KEY,

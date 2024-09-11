@@ -1,3 +1,5 @@
+CREATE DATABASE r3_q1;
+USE r3_q1;
 -- 店舗
 CREATE TABLE 店舗 (
     加盟企業コード INT,
